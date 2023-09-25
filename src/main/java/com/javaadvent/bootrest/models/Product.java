@@ -1,4 +1,4 @@
-package com.javaadvent.bootrest.model;
+package com.javaadvent.bootrest.models;
 
 import org.springframework.data.annotation.Id;
 
