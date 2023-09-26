@@ -28,4 +28,19 @@ final class MongoDBProductService implements ProductService {
             persisted = repository.save(persisted);
             return convertProductDTO(persisted);
   }
+
+  @Override
+  // delete 
+
+  //findall (list)
+
+  // list of DTOs
+
+  // List DTOs again?
+
+  // update
+
+  // findProductById
+
+  // 
 }
